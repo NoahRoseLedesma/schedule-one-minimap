@@ -4,7 +4,11 @@ A minimap mod for Schedule I, built for [MelonLoader](https://melonwiki.xyz/).
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Screenshot](minimap.png)
+<p align="center">
+  <img src="minimap.png" alt="MiniMap Screenshot" />
+  <br>
+  <img src="minimap_legend.png" alt="MiniMap Legend Screenshot" />
+</p>
 
 ## Features
 
@@ -41,7 +45,7 @@ Contributions are welcome! Feel free to open issues for bugs or feature requests
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Acknowledgments
 - Thanks to the **MelonLoader** team for the modding framework.
