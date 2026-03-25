@@ -25,7 +25,7 @@ A minimap mod for Schedule I, built for [MelonLoader](https://melonwiki.xyz/).
 
 1.  Install [MelonLoader](https://melonwiki.xyz/#/?id=installation) for Schedule I.
 2.  Navigate to your Schedule I installation directory (usually `C:\Program Files (x86)\Steam\steamapps\common\Schedule I`).
-3.  Place the `MiniMap.dll` file into the `Mods` folder.
+3.  Download [`MiniMap.dll`](https://github.com/NoahRoseLedesma/schedule-one-minimap/releases/download/v1.0.0/MiniMap.dll) and place it in the `Mods` folder.
 4.  Launch the game.
 
 ## Controls
